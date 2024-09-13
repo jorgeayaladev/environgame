@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A26F5DD-725A-4C21-ABFF-0C7154F357CD}|EnvironGame.vcxproj|C:\\Users\\jayal\\source\\repos\\EnvironGame\\EnvironGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A26F5DD-725A-4C21-ABFF-0C7154F357CD}|EnvironGame.vcxproj|solutionrelative:EnvironGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A26F5DD-725A-4C21-ABFF-0C7154F357CD}|EnvironGame.vcxproj|C:\\Users\\jayal\\source\\repos\\EnvironGame\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A26F5DD-725A-4C21-ABFF-0C7154F357CD}|EnvironGame.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\jayal\\source\\repos\\EnvironGame\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "C:\\Users\\jayal\\source\\repos\\EnvironGame\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T03:08:16.734Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "EnvironGame.cpp",
               "ToolTip": "C:\\Users\\jayal\\source\\repos\\EnvironGame\\EnvironGame.cpp",
               "RelativeToolTip": "EnvironGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-13T02:39:16.672Z",
               "EditorCaption": ""

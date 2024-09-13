@@ -1,0 +1,6 @@
+﻿  EnvironGame.cpp
+C:\Users\jayal\source\repos\EnvironGame\EnvironGame.cpp(5,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/EnvironGame.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  EnvironGame.vcxproj -> C:\Users\jayal\source\repos\EnvironGame\x64\Debug\EnvironGame.exe

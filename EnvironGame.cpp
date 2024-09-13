@@ -1,8 +1,12 @@
 #include "pch.h"
 
-using namespace System;
+int main(){
+    // Reinicializar valores aleatorios
+    srand(time(NULL));
+    // Cambiar tamaño de la consola y centrarla
+    resizeConsole(1200, 650);
 
-int main(array<System::String ^> ^args)
-{
+    cout << "Hola mundo" << endl;
+
     return 0;
 }
