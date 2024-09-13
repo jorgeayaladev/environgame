@@ -6,7 +6,7 @@ int main(){
     // Cambiar tamaño de la consola y centrarla
     resizeConsole(1200, 650);
 
-    cout << "Hola mundo" << endl;
+    cout << "|| Inicializacion del proyecto V1 !!" << endl;
 
     return 0;
 }
